@@ -1,0 +1,23 @@
+{
+  "name": "pd2023-1-first-node-proj",
+  "version": "1.0.0",
+  "description": "First npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pecourses/pd2023-1-first-node-proj.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pecourses/pd2023-1-first-node-proj/issues"
+  },
+  "homepage": "https://github.com/pecourses/pd2023-1-first-node-proj#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
